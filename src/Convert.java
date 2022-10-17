@@ -1,7 +1,7 @@
 /*
  * Convert.java
  *
- * TCSS 371 assignment 1
+ * TCS 371 assignment 1
  */
 
 /**
