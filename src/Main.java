@@ -7,6 +7,7 @@ public class Main {
         Convert co = new Convert();
         System.out.println(co.convert2sCompToDecimal(ca));
 
+        //Checks to test code
         //System.out.println(co.);
         //System.out.println(c.convertDecimalTo2sComp(63));
         //System.out.println(c.convertDecimalTo2sComp(-64));
